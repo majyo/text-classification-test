@@ -1,0 +1,8 @@
+allennlp>=2.0,<3.0
+pytest
+flake8
+mypy==0.800
+black==20.8b1
+
+fastapi~=0.65.1
+torch~=1.7.1+cu110
